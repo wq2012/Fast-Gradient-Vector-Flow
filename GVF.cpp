@@ -231,6 +231,7 @@ void gvf(double *f, int m, int n, double alpha, double mu, int iter, double *u, 
     delete[] del2v1;
     delete[] u2;
     delete[] v2;
+    delete[] SqrMagf;
 }
 
 /* the gateway function */

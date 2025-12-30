@@ -11,7 +11,6 @@ This package implements the **Gradient Vector Flow (GVF)** algorithm in C++/MEX,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Citation](#citation)
-- [License](#license)
 
 ## Features
 - **High Performance**: C++ implementation integrated with MATLAB/Octave via MEX.

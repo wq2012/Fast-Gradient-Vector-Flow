@@ -71,4 +71,3 @@ axis ij off;
 If you use this code in your research, please cite the following paper:
 
 > Quan Wang, Kim L. Boyer, "The active geometric shape model: A new robust deformable shape model and its applications", Computer Vision and Image Understanding, Volume 116, Issue 12, December 2012, Pages 1178-1194, ISSN 1077-3142, https://doi.org/10.1016/j.cviu.2012.08.004.
-

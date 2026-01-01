@@ -10,7 +10,7 @@ This package implements the **Gradient Vector Flow (GVF)** algorithm in C++/MEX,
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Citation](#citation)
+- [Copyright and Citation](#copyright-and-citation)
 
 ## Features
 - **High Performance**: C++ implementation integrated with MATLAB/Octave via MEX.
@@ -66,7 +66,46 @@ quiver(u, v);
 axis ij off;
 ```
 
-## Citation
-If you use this code in your research, please cite the following paper:
+## Copyright and Citation
 
-> Quan Wang, Kim L. Boyer, "The active geometric shape model: A new robust deformable shape model and its applications", Computer Vision and Image Understanding, Volume 116, Issue 12, December 2012, Pages 1178-1194, ISSN 1077-3142, https://doi.org/10.1016/j.cviu.2012.08.004.
+
+```
+Copyright (C) 2012 Quan Wang <wangq10@rpi.edu>,
+Signal Analysis and Machine Perception Laboratory,
+Department of Electrical, Computer, and Systems Engineering,
+Rensselaer Polytechnic Institute, Troy, NY 12180, USA
+```
+
+This software was developed as part of the following research. If you use this software in your research, please cite:
+
+**Plain Text:**
+
+> Quan Wang, Kim L. Boyer.
+The active geometric shape model: A new robust deformable shape model and its applications.
+Computer vision and image understanding 116, no. 12 (2012): 1178-1194.
+
+> Quan Wang.
+Exploiting Geometric and Spatial Constraints for Vision and Lighting Applications.
+Ph.D. dissertation, Rensselaer Polytechnic Institute, 2014.
+
+**BibTeX:**
+
+```
+@article{wang2012active,
+  title={The active geometric shape model: A new robust deformable shape model and its applications},
+  author={Wang, Quan and Boyer, Kim L},
+  journal={Computer vision and image understanding},
+  volume={116},
+  number={12},
+  pages={1178--1194},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@phdthesis{wang2014exploiting,
+  title={Exploiting Geometric and Spatial Constraints for Vision and Lighting Applications},
+  author={Quan Wang},
+  year={2014},
+  school={Rensselaer Polytechnic Institute},
+}
+```
